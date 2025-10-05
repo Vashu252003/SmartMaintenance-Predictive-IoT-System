@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files from VS Code extensions
+tempcoderunner*.py
+
+# NOTE: For this portfolio project, we are COMMITTING the data and models.
+# In a larger production project, you would often ignore these:
+# data/
+# models/

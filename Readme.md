@@ -502,55 +502,6 @@ This project is licensed under the MIT License - free to use for learning and co
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-## 🌟 Show Your Support
-
-If you find this project helpful:
-
-- ⭐ Star this repository
-- 🔄 Fork it for your own use
-- 📢 Share it with others
-- 🐛 Report issues
-- 💡 Suggest improvements
-
----
-
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/predictive-maintenance/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/predictive-maintenance/discussions)
-- **Email**: your.email@example.com
-
----
-
-## 🎓 Learning Resources
-
-### Understanding Predictive Maintenance:
-
-- [Introduction to Predictive Maintenance](https://en.wikipedia.org/wiki/Predictive_maintenance)
-- [IoT in Manufacturing](https://www.ibm.com/topics/internet-of-things)
-
-### Machine Learning:
-
-- [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Random Forest Explained](https://scikit-learn.org/stable/modules/ensemble.html#forest)
-
-### Streamlit:
-
-- [Streamlit Documentation](https://docs.streamlit.io)
-- [Streamlit Gallery](https://streamlit.io/gallery)
-
----
-
 ## 📊 Sample Output
 
 ### Console Output (main.py)
